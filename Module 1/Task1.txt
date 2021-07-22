@@ -1,0 +1,54 @@
+Find out about the most popular JavaScript frameworks.
+
+
+1. React.js
+
+React is a library, not a full-fledged framework that makes it one of the simplest frameworks
+to learn, especially if to compare with its constant rival – Angular. React.js has been an
+unchanged leader among top JavaScript frameworks to use, taking the first place with the
+number of dependents and downloads according to Node Package Manager. The community of this
+Facebook-created framework is rapidly growing and in 2019, React gained 22.9k stars on GitHub.
+The main focus of React is the building of UI of a single page web app and mobile
+app. The exceptional performance is achieved gratefully to the virtual DOM characteristic
+of React. React is the choice of Facebook, Twitter, Instagram, Whatsapp, Uber, and many
+others.
+
+__________________________________________________________________________________________________
+
+2. Angular
+
+Angular comes from previously written in TypeScript and elaborated by Google, Angular.
+This is a component-based framework that possesses an extremely strong typing system that
+enables it to statically analyze the code and build dynamic web and single-page applications. 
+Mastering this framework is difficult and time-consuming due to its MVC architecture.
+
+__________________________________________________________________________________________________
+
+3. Vue.js
+
+A relatively new framework that is widely gaining popularity and is even predicted by some to
+overtake React. Vue.js is very fast due to being a component-based and visual DOM, and light.
+The popularity it has gained is striking, especially taking into account the absence of large
+companies’ mentorship. Vue.js earned the biggest number of GitHub stars in 2019 (31.4k) and
+takes the second place as to the number of downloads after React on Node Package Manager
+statistics. Vue. js has become a choice of Grammarly, 9Gag, Gitlab, and Xiaomi.
+
+__________________________________________________________________________________________________
+
+4. Svelte
+
+Svelte is a new revolutionary approach to building web applications that generate code to
+operate the DOM. It can’t be named a simple framework but a component one compiling components
+at the build step. There is no need to master Svelte from a scratch: you write components
+using HTML, CSS, and JavaScript, which are compiled into small separate JavaScript modules.
+That demands very little browser processing and makes code fast and simple.
+
+__________________________________________________________________________________________________
+
+5. Ember.js
+
+Ember.js is an open-source, component-based framework with astonishing architecture, based
+on the MVC model. The learning curve is steep and time-consuming because of its inflexible
+structure. Though, once it’s mastered, it can be used to fulfill the demands of very complex
+web applications. Even though being developed a long time ago, it has never won much
+popularity
