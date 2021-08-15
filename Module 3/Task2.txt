@@ -1,0 +1,18 @@
+2.  Try the below code and identify which of the below programs are a valid case of hoisting?
+
+Program 1:   
+a = 10;
+console.log(a);
+var a;
+
+
+Program 2:
+a = 5;
+console.log(a);
+let a;
+
+Here , we can see that hoisting works in the var keyword while it is not applicable for the let keyword
+
+
+
+

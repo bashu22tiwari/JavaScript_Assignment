@@ -1,2 +1,19 @@
 Find the difference between Object and Map.
 
+Map :
+
+1. Map is a data structure which helps in storing the data in the form of pairs.
+ The pair consists of a unique key and a value mapped to the key.
+
+2. In the Map, the original order of elements is preserved.
+
+3. Map is instance of Object.
+
+
+Object :
+
+1. Object follows the same concept as that of map i.e. using key-value pair for storing data. 
+
+2. In case of Objects, there is no such order.
+
+3. Object is not instance of map.
